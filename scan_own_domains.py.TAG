@@ -1,0 +1,7 @@
+FILE=scan_own_domains.py
+SHA256=d0a37eadcabe1720d5b994dece319eb5f081a0d329e55b04e271087d64fe0866
+SIZE=6372
+DEVICE=SERVER
+TS=2026-09-05__11-09-20
+FIXATED_BY=Claude
+NOTE=removed_api.soulinpsyabstract.com_not_owned_domain_confirmed_by_operator
