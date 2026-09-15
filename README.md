@@ -1,4 +1,4 @@
-# EilatSecure
+# WebSecure
 
 Passive, B2B website-security scanning for local Eilat businesses — a
 separate brand from SIPA OS, run by the same team.
@@ -7,7 +7,7 @@ separate brand from SIPA OS, run by the same team.
 
 ## What this is
 
-EilatSecure gives small local businesses (the kind that had a website built
+WebSecure gives small local businesses (the kind that had a website built
 by a freelancer or a page builder years ago and never touched it again) a
 plain-language, non-intrusive check of how exposed their site actually is,
 plus a paid path to a deeper human-reviewed audit and — as a cross-sell —
@@ -77,7 +77,7 @@ A separate, **not customer-facing** script. It runs the same category of
 passive checks (headers, cookie flags, sensitive paths, forced HTTPS
 redirect, plus TLS certificate expiry) against a fixed list of the
 architect's own 14 SIPA OS domains, for self-monitoring rather than as part
-of the EilatSecure product. It is currently run **manually** — it is not yet
+of the WebSecure product. It is currently run **manually** — it is not yet
 wired into a cron schedule or CI job.
 
 ## Deploying

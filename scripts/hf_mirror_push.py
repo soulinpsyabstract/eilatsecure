@@ -25,7 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-HF_REPO_ID = "SoulInPsyAbstract/eilatsecure"
+HF_REPO_ID = "SoulInPsyAbstract/websecure"
 
 
 def run(cmd: list[str], **kw) -> str:
